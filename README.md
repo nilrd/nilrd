@@ -1,8 +1,6 @@
-# 👋 Olá, eu sou Nilson da Silva Brites!
+# 👋 Olá, eu sou Nilson da Silva Brites
 
 🔍 Desenvolvedor em busca da **excelência** em **automação de testes**. Aqui, você encontrará uma coleção de projetos que refletem minha paixão por qualidade de software e inovação!
-
-![Automação de Testes](https://media.giphy.com/media/hvQ5gUQmB0BzC/giphy.gif)
 
 ## 🌱 Sobre Mim
 
@@ -17,8 +15,6 @@
 1. **Identificar os Cenários**: Utilize o **Gherkin** para descrever o comportamento esperado.
 2. **Escrever os Testes**: Use **JUnit** para definir os testes que serão executados.
 3. **Automatizar com Selenium**: Teste a interface do usuário como um verdadeiro ninja da qualidade!
-
-![Qualidade em Primeiro Lugar](https://media.giphy.com/media/l0Hly1J6Fn5YXZV3e/giphy.gif)
 
 ## 🚀 Projetos em Destaque
 
