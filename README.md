@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Nild! 
+# 👋 Olá, eu sou Nilson da Silva Brites!
 
-🧑‍💻 Desenvolvedor em busca da **excelência** em **automação de testes**. Aqui, você encontrará uma coleção de projetos que refletem minha paixão por qualidade de software e inovação!
+🔍 Desenvolvedor em busca da **excelência** em **automação de testes**. Aqui, você encontrará uma coleção de projetos que refletem minha paixão por qualidade de software e inovação!
 
-![Automação de Testes](https://media.giphy.com/media/xT5LMH92A65kWgYFbG/giphy.gif)
+![Automação de Testes](https://media.giphy.com/media/hvQ5gUQmB0BzC/giphy.gif)
 
 ## 🌱 Sobre Mim
 
@@ -27,11 +27,12 @@ Automação de testes para o sistema HomeBroker, utilizando Selenium WebDriver e
 
 ## 🛠 Tecnologias que Uso
 
-- **Java**: A base do meu desenvolvimento.
-- **JUnit**: Para execução e validação de testes.
-- **Selenium**: Para automação de testes de interface.
-- **Cucumber & Gherkin**: Para escrever testes de aceitação compreensíveis.
-- **HTML & CSS**: Para desenvolvimento de interfaces web.
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**: A base do meu desenvolvimento.
+- ![JUnit](https://img.icons8.com/color/48/000000/junit.png) **JUnit**: Para execução e validação de testes.
+- ![Selenium](https://img.icons8.com/color/48/000000/selenium.png) **Selenium**: Para automação de testes de interface.
+- ![Cucumber](https://img.icons8.com/color/48/000000/cucumber.png) **Cucumber**: Para escrever testes de aceitação.
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**: Para desenvolvimento de interfaces web.
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**: Para estilização de páginas web.
 
 ## 🤝 Contribuições e Conexões
 
