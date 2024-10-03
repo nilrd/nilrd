@@ -30,8 +30,8 @@ Automação de testes para o sistema HomeBroker, utilizando Selenium WebDriver e
 ## 🛠 Tecnologias que Uso
 
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-- ! **JUnit**
-- ! **Selenium**
+- ![JUnit](https://junit.org/junit5/assets/img/junit5-logo.png) **JUnit**
+- ![Selenium](https://www.selenium.dev/images/selenium_logo_large.png) **Selenium**
 - ![Cucumber](https://img.icons8.com/color/48/000000/cucumber.png) **Cucumber**
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
