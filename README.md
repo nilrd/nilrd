@@ -46,7 +46,7 @@ Estou sempre aberto a colaborações e discussões sobre qualidade de software! 
 
 ## 📫 Como me encontrar
 
-Sinta-se à vontade para entrar em contato para colaborações ou apenas para um bate-papo sobre QA e automação! Meu e-mail é: **seuemail@example.com**.
+Sinta-se à vontade para entrar em contato para colaborações ou apenas para um bate-papo sobre QA e automação! Meu e-mail é: **nilson.brites@gmail.com**.
 
 ---
 
