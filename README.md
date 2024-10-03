@@ -1,12 +1,16 @@
-# 👋 Olá, eu sou Nilson da Silva Brites
+# 👋 Olá, eu sou Nilson da Silva Brites!
 
-🔍 Desenvolvedor em busca da **excelência** em **automação de testes**. Aqui, você encontrará uma coleção de projetos que refletem minha paixão por qualidade de software e inovação!
+🔍 Sou um desenvolvedor em busca da **excelência** em **automação de testes**. Acredito que qualidade é fundamental para o sucesso de qualquer aplicação, e estou aqui para garantir que os sistemas funcionem perfeitamente!
+
+## 🌟 Destaques
+
+- 🎓 Estudante de **Back-end** na **Alura ONE Oracle Next Education**.
+- 💼 Trabalhando em projetos que utilizam automação de testes com ferramentas de ponta.
 
 ## 🌱 Sobre Mim
 
 - 💻 **Tecnologias:** Java, JUnit, Selenium WebDriver, Cucumber, Gherkin, HTML, CSS
-- 🎓 Estudando **Back-end** na **Alura ONE Oracle Next Education**.
-- 🚀 Focado em automação de testes para garantir que cada aplicação funcione perfeitamente.
+- 🚀 Focado em automação de testes para garantir a qualidade e eficiência de sistemas.
 
 ## 🎮 Testes Automatizados: O Jogo da Qualidade
 
@@ -16,6 +20,8 @@
 2. **Escrever os Testes**: Use **JUnit** para definir os testes que serão executados.
 3. **Automatizar com Selenium**: Teste a interface do usuário como um verdadeiro ninja da qualidade!
 
+![Automação de Testes](https://media.giphy.com/media/hvQ5gUQmB0BzC/giphy.gif)
+
 ## 🚀 Projetos em Destaque
 
 ### [Homebroker Automation](https://github.com/nilrd/homebroker-automation)
@@ -23,12 +29,12 @@ Automação de testes para o sistema HomeBroker, utilizando Selenium WebDriver e
 
 ## 🛠 Tecnologias que Uso
 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**: A base do meu desenvolvimento.
-- ![JUnit](https://img.icons8.com/color/48/000000/junit.png) **JUnit**: Para execução e validação de testes.
-- ![Selenium](https://img.icons8.com/color/48/000000/selenium.png) **Selenium**: Para automação de testes de interface.
-- ![Cucumber](https://img.icons8.com/color/48/000000/cucumber.png) **Cucumber**: Para escrever testes de aceitação.
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**: Para desenvolvimento de interfaces web.
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**: Para estilização de páginas web.
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
+- ![JUnit](https://upload.wikimedia.org/wikipedia/commons/e/e3/JUnit_logo.png) **JUnit**
+- ![Selenium](https://upload.wikimedia.org/wikipedia/commons/6/6c/Selenium_logo.png) **Selenium**
+- ![Cucumber](https://img.icons8.com/color/48/000000/cucumber.png) **Cucumber**
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
 
 ## 🤝 Contribuições e Conexões
 
