@@ -22,7 +22,7 @@ A automação de testes é uma parte crucial do desenvolvimento de software. Aqu
 
 3. **Automatizar Testes com Selenium:** Uso o Selenium WebDriver para automatizar a interação com a interface do usuário, garantindo que todas as funcionalidades funcionem como esperado.
 
-![Automação de Testes](https://media.giphy.com/media/hvQ5gUQmB0BzC/giphy.gif)
+![Automação de Testes]
 
 ## 🚀 Projetos em Destaque
 
