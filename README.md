@@ -12,13 +12,15 @@
 - 💻 **Tecnologias:** Java, JUnit, Selenium WebDriver, Cucumber, Gherkin, HTML, CSS
 - 🚀 Focado em automação de testes para garantir a qualidade e eficiência de sistemas.
 
-## 🎮 Testes Automatizados: O Jogo da Qualidade
+## 🛠 Processo de Automação de Testes
 
-🔍 O objetivo dos testes automatizados é encontrar bugs antes que eles cheguem ao usuário. Como em um jogo, você deve:
+A automação de testes é uma parte crucial do desenvolvimento de software. Aqui estão as etapas que sigo para garantir a qualidade:
 
-1. **Identificar os Cenários**: Utilize o **Gherkin** para descrever o comportamento esperado.
-2. **Escrever os Testes**: Use **JUnit** para definir os testes que serão executados.
-3. **Automatizar com Selenium**: Teste a interface do usuário como um verdadeiro ninja da qualidade!
+1. **Identificar Cenários de Teste:** Utilizo o **Gherkin** para descrever o comportamento esperado da aplicação.
+   
+2. **Escrever Testes:** Utilizo **JUnit** para definir os testes que serão executados e validar as funcionalidades.
+
+3. **Automatizar Testes com Selenium:** Uso o Selenium WebDriver para automatizar a interação com a interface do usuário, garantindo que todas as funcionalidades funcionem como esperado.
 
 ![Automação de Testes](https://media.giphy.com/media/hvQ5gUQmB0BzC/giphy.gif)
 
@@ -44,7 +46,7 @@ Estou sempre aberto a colaborações e discussões sobre qualidade de software! 
 
 ## 📫 Como me encontrar
 
-Sinta-se à vontade para entrar em contato para colaborações ou apenas para um bate-papo sobre QA e automação! Meu e-mail é: **nilson.brites@gmail.com**.
+Sinta-se à vontade para entrar em contato para colaborações ou apenas para um bate-papo sobre QA e automação! Meu e-mail é: **seuemail@example.com**.
 
 ---
 
