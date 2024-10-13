@@ -38,6 +38,9 @@ Automação de testes para o sistema HomeBroker, utilizando Selenium WebDriver e
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
 
+  ![GitHub Repositories](https://img.shields.io/badge/Public_Repositories-COUNT-blue)
+
+
 ## 🤝 Contribuições e Conexões
 
 Estou sempre aberto a colaborações e discussões sobre qualidade de software! Vamos nos conectar!
