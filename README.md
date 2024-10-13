@@ -38,6 +38,11 @@ Automação de testes para o sistema HomeBroker, utilizando Selenium WebDriver e
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
 
+- ## 🚀 Meus Repositórios Públicos
+
+<!-- repos start -->
+<!-- repos end -->
+
 
 ## 🤝 Contribuições e Conexões
 
