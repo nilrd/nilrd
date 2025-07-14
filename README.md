@@ -1,65 +1,76 @@
 # 👋 Olá, eu sou Nilson da Silva Brites!
 
-🔍 Sou um desenvolvedor em busca da **excelência** em **automação de testes**. Acredito que qualidade é fundamental para o sucesso de qualquer aplicação, e estou aqui para garantir que os sistemas funcionem perfeitamente!
+🔍 Sou Analista de Qualidade de Software com experiência prática em **testes manuais, testes de API e automação de testes com Java**.  
+Atuo com foco em garantir a **excelência na qualidade** de sistemas por meio de boas práticas de QA e metodologias ágeis.
 
-## 🌟 Destaques
+---
 
-- 🎓 Estudante de **Back-end** na **Alura ONE Oracle Next Education**.
-- 💼 Trabalhando em projetos que utilizam automação de testes com ferramentas de ponta.
+## 🌟 Principais destaques
 
-## 🌱 Sobre Mim
+- 🎓 Formação em **Back-end Java pela Oracle Next Education (Alura)**  
+- 🧪 Técnico em **Qualidade de Software com foco em automação – E2E Treinamentos**  
+- 💼 Experiência com **Selenium WebDriver**, **JUnit**, **Cucumber (Gherkin)** e testes de API com **Postman**  
+- ⚙️ Conhecimento em **CI/CD com GitHub Actions**, controle de versão com **Git** e consultas SQL com **MySQL Workbench**
 
-- 💻 **Tecnologias:** Java, JUnit, Selenium WebDriver, Cucumber, Gherkin, HTML, CSS
-- 🚀 Focado em automação de testes para garantir a qualidade e eficiência de sistemas.
+---
 
-## 🛠 Processo de Automação de Testes
+## 💡 Sobre mim
 
-A automação de testes é uma parte crucial do desenvolvimento de software. Aqui estão as etapas que sigo para garantir a qualidade:
+Sou autodidata, comunicativo, apaixonado por tecnologia desde jovem e focado em evoluir tecnicamente todos os dias.  
+Atuo em ambientes ágeis (Scrum), contribuindo com qualidade desde o início do desenvolvimento (shift-left testing), participando ativamente de dailies, plannings, refinamentos e retrospectivas.
 
-1. **Identificar Cenários de Teste:** Utilizo o **Gherkin** para descrever o comportamento esperado da aplicação.
-   
-2. **Escrever Testes:** Utilizo **JUnit** para definir os testes que serão executados e validar as funcionalidades.
+Gosto de ajudar colegas, configurar ambientes, garantir fluidez nas entregas e manter o time alinhado com as melhores práticas de QA.
 
-3. **Automatizar Testes com Selenium:** Uso o Selenium WebDriver para automatizar a interação com a interface do usuário, garantindo que todas as funcionalidades funcionem como esperado.
+---
 
-![Automação de Testes]
+## 🛠️ Stack Técnica
+
+| Linguagens | Ferramentas de Teste | DevOps e Banco de Dados |
+|-----------|-----------------------|--------------------------|
+| Java, JavaScript | Selenium WebDriver, JUnit, Cucumber, Postman | Git, GitHub Actions, Maven, MySQL |
+
+---
+
+## ✅ Processo de Automação de Testes
+
+1. **Definição de critérios de aceite (BDD)**  
+2. **Criação de cenários em Gherkin (Given/When/Then)**  
+3. **Implementação dos testes com JUnit + Selenium WebDriver**  
+4. **Execução automatizada via pipelines GitHub Actions (CI/CD)**  
+5. **Validação, reporte de bugs e análise de causa raiz**
+
+---
 
 ## 🚀 Projetos em Destaque
 
-### [Homebroker Automation](https://github.com/nilrd/homebroker-automation)
-Automação de testes para o sistema HomeBroker, utilizando Selenium WebDriver e JUnit. Este projeto assegura a qualidade e a eficiência do sistema em diferentes cenários de uso.
+### 🔗 [Homebroker Automation](https://github.com/nilrd/homebroker-automation)  
+Automação de testes funcionais com Selenium WebDriver e JUnit, garantindo a confiabilidade de fluxos críticos do sistema.
 
-## 🛠 Tecnologias que Uso
+---
 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-- <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="50" /> **JUnit**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="50" /> **Selenium**
-- ![Cucumber](https://img.icons8.com/color/48/000000/cucumber.png) **Cucumber**
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
-
- ## 🚀 Meus Repositórios Públicos
+## 📂 Repositórios públicos
 
 <!-- repos start -->
 <!-- repos end -->
 
+---
 
+## 🤝 Conecte-se comigo
 
+Estou aberto a colaborações, oportunidades, parcerias e projetos desafiadores na área de QA e automação de testes!
 
-
-## 🤝 Contribuições e Conexões
-
-Estou sempre aberto a colaborações e discussões sobre qualidade de software! Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilsondasilvabrites/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilrd)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940825120)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nilson.brites@gmail.com)
-
-## 📫 Como me encontrar
-
-Sinta-se à vontade para entrar em contato para colaborações ou apenas para um bate-papo sobre QA e automação! Meu e-mail é: **nilson.brites@gmail.com**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilsondasilvabrites/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilrd)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511940825120)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilson.brites@gmail.com)
 
 ---
 
-Agradeço por visitar meu perfil! Estou animado para compartilhar conhecimento e criar soluções incríveis juntos! 🚀
+## 📫 Contato
+
+**📧 Email:** nilson.brites@gmail.com  
+**📱 WhatsApp:** [Clique para conversar](https://wa.me/5511940825120)
+
+---
+
+Obrigado por visitar meu perfil! Vamos construir soluções de qualidade juntos 🚀
