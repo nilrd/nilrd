@@ -10,24 +10,24 @@ Atuo com foco em garantir a **excelência na qualidade** de sistemas por meio de
 - 🎓 Formação em **Back-end Java pela Oracle Next Education (Alura)**  
 - 🧪 Técnico em **Qualidade de Software com foco em automação – E2E Treinamentos**  
 - 💼 Experiência com **Selenium WebDriver**, **JUnit**, **Cucumber (Gherkin)** e testes de API com **Postman**  
-- ⚙️ Conhecimento em **CI/CD com GitHub Actions**, controle de versão com **Git** e consultas SQL com **MySQL Workbench**
+- 🛠 Familiaridade com **Git, GitHub, Maven** e consultas SQL com **MySQL Workbench**
 
 ---
 
 ## 💡 Sobre mim
 
-Sou autodidata, comunicativo, apaixonado por tecnologia desde jovem e focado em evoluir tecnicamente todos os dias.  
+Tenho facilidade em lidar com tecnologia desde cedo e sempre me envolvi com resolução de problemas em sistemas e ambientes.  
 Atuo em ambientes ágeis (Scrum), contribuindo com qualidade desde o início do desenvolvimento (shift-left testing), participando ativamente de dailies, plannings, refinamentos e retrospectivas.
 
-Gosto de ajudar colegas, configurar ambientes, garantir fluidez nas entregas e manter o time alinhado com as melhores práticas de QA.
+Gosto de colaborar com o time, apoiar colegas na configuração de ambientes e buscar formas de entregar com mais eficiência e clareza nos processos de QA.
 
 ---
 
 ## 🛠️ Stack Técnica
 
-| Linguagens | Ferramentas de Teste | DevOps e Banco de Dados |
-|-----------|-----------------------|--------------------------|
-| Java, JavaScript | Selenium WebDriver, JUnit, Cucumber, Postman | Git, GitHub Actions, Maven, MySQL |
+| Linguagens | Ferramentas de Teste | Banco de Dados |
+|-----------|-----------------------|----------------|
+| Java, JavaScript | Selenium WebDriver, JUnit, Cucumber, Postman | MySQL (MySQL Workbench) |
 
 ---
 
@@ -36,7 +36,7 @@ Gosto de ajudar colegas, configurar ambientes, garantir fluidez nas entregas e m
 1. **Definição de critérios de aceite (BDD)**  
 2. **Criação de cenários em Gherkin (Given/When/Then)**  
 3. **Implementação dos testes com JUnit + Selenium WebDriver**  
-4. **Execução automatizada via pipelines GitHub Actions (CI/CD)**  
+4. **Execução e análise dos resultados**  
 5. **Validação, reporte de bugs e análise de causa raiz**
 
 ---
